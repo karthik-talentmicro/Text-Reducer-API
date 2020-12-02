@@ -1,4 +1,4 @@
 Execution process
 
-pip install requirements.txt
-python.app.py
+1. pip install requirements.txt
+2. python.app.py
